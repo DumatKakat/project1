@@ -1,6 +1,5 @@
-size = 5
+size = []
 
-for num in range(size, 0, -1):
-    print(num)
-    for i in range(num):
-        print(i)
+print(len(size))
+
+# Sim PAPAPA
