@@ -10,3 +10,4 @@ def Hello_world(str):
     print(f"{str} Hello World")
 
 Hello_world('print')
+#Чем в дальше лес тем больше скибиди доп доп ес ес
